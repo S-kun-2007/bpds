@@ -21,4 +21,4 @@ Abre [CRUD/index.html](CRUD/index.html) directamente en el navegador. No requier
 - `CRUD/index.html`: estructura y accesibilidad del tablero.
 - `CRUD/styles.css`: estilos visuales y diseño responsive.
 - `CRUD/app.js`: turnos, reglas, marcador y reinicio.
-
+ bvds hjnvdskjfolikfdxmlkfdlkj
